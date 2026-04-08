@@ -1,0 +1,6 @@
+.idea
+.venv
+__pycache__/
+backend/.env
+frontend/Vue_app/node_modules/
+frontend/Vue_app/.env
